@@ -1,6 +1,6 @@
 # LisztPickerView
 ###写的很随,扩展性一般,但一般的选择够用了!主要针对ToolBar来进行封装
-<img src="https://github.com/LisztGitHub/LisztPickerView/blob/master/Liszt.gif" />
+<img src="https://github.com/LisztGitHub/LisztPickerView/blob/master/Liszt_.gif" />
 # 
     #import <UIKit/UIKit.h>
 
